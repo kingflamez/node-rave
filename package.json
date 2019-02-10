@@ -1,0 +1,37 @@
+{
+  "name": "rave",
+  "version": "0.0.1",
+  "description": "A simplified way of using Rave By Flutterwave APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingflamez/node-rave.git"
+  },
+  "keywords": [
+    "rave",
+    "node",
+    "flutterwave",
+    "library",
+    "plugin",
+    "africa",
+    "payments",
+    "kenya",
+    "nigeria",
+    "lagos",
+    "ghana",
+    "south",
+    "africa",
+    "payments",
+    "made",
+    "easy"
+  ],
+  "author": "Oluwole Adebiyi <flamekeed@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kingflamez/node-rave/issues"
+  },
+  "homepage": "https://github.com/kingflamez/node-rave#readme"
+}
